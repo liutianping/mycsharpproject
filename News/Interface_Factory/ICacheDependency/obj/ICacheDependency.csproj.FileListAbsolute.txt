@@ -1,0 +1,5 @@
+E:\csharpworkspace\News\Interface_Factory\ICacheDependency\bin\Debug\ICacheDependency.dll
+E:\csharpworkspace\News\Interface_Factory\ICacheDependency\bin\Debug\ICacheDependency.pdb
+E:\csharpworkspace\News\Interface_Factory\ICacheDependency\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\Interface_Factory\ICacheDependency\obj\Debug\ICacheDependency.dll
+E:\csharpworkspace\News\Interface_Factory\ICacheDependency\obj\Debug\ICacheDependency.pdb

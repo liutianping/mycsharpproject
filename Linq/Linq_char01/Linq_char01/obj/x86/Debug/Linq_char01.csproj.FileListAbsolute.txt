@@ -1,0 +1,9 @@
+E:\csharpworkspace\Linq\Linq_char01\Linq_char01\bin\Debug\Linq_char01.exe
+E:\csharpworkspace\Linq\Linq_char01\Linq_char01\bin\Debug\Linq_char01.pdb
+E:\csharpworkspace\Linq\Linq_char01\Linq_char01\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\Linq\Linq_char01\Linq_char01\obj\x86\Debug\Linq_char01.Form1.resources
+E:\csharpworkspace\Linq\Linq_char01\Linq_char01\obj\x86\Debug\Linq_char01.Properties.Resources.resources
+E:\csharpworkspace\Linq\Linq_char01\Linq_char01\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\csharpworkspace\Linq\Linq_char01\Linq_char01\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\csharpworkspace\Linq\Linq_char01\Linq_char01\obj\x86\Debug\Linq_char01.exe
+E:\csharpworkspace\Linq\Linq_char01\Linq_char01\obj\x86\Debug\Linq_char01.pdb

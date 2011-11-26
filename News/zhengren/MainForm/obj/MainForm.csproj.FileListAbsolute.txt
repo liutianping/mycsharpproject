@@ -1,0 +1,8 @@
+E:\csharpworkspace\News\zhengren\MainForm\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\zhengren\MainForm\obj\Debug\MainForm.Form1.resources
+E:\csharpworkspace\News\zhengren\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\csharpworkspace\News\zhengren\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+E:\csharpworkspace\News\zhengren\MainForm\bin\Debug\MainForm.exe
+E:\csharpworkspace\News\zhengren\MainForm\bin\Debug\MainForm.pdb
+E:\csharpworkspace\News\zhengren\MainForm\obj\Debug\MainForm.exe
+E:\csharpworkspace\News\zhengren\MainForm\obj\Debug\MainForm.pdb

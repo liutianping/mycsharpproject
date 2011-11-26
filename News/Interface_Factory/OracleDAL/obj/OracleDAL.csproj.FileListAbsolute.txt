@@ -1,0 +1,7 @@
+E:\csharpworkspace\News\Interface_Factory\OracleDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\Interface_Factory\OracleDAL\bin\Debug\IDAL.dll
+E:\csharpworkspace\News\Interface_Factory\OracleDAL\bin\Debug\IDAL.pdb
+E:\csharpworkspace\News\Interface_Factory\OracleDAL\bin\Debug\MyOracleDAL.dll
+E:\csharpworkspace\News\Interface_Factory\OracleDAL\bin\Debug\MyOracleDAL.pdb
+E:\csharpworkspace\News\Interface_Factory\OracleDAL\obj\Debug\MyOracleDAL.dll
+E:\csharpworkspace\News\Interface_Factory\OracleDAL\obj\Debug\MyOracleDAL.pdb

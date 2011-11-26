@@ -1,0 +1,9 @@
+E:\csharpworkspace\News\ThreeTries\BLL\bin\Debug\Threetries.BLL.dll
+E:\csharpworkspace\News\ThreeTries\BLL\bin\Debug\Threetries.BLL.pdb
+E:\csharpworkspace\News\ThreeTries\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\ThreeTries\BLL\obj\Debug\Threetries.BLL.dll
+E:\csharpworkspace\News\ThreeTries\BLL\obj\Debug\Threetries.BLL.pdb
+E:\csharpworkspace\News\ThreeTries\BLL\bin\Debug\Threetires.DAO.dll
+E:\csharpworkspace\News\ThreeTries\BLL\bin\Debug\Threetries.model.dll
+E:\csharpworkspace\News\ThreeTries\BLL\bin\Debug\Threetries.model.pdb
+E:\csharpworkspace\News\ThreeTries\BLL\bin\Debug\Threetires.DAO.pdb

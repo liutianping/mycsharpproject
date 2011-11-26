@@ -1,0 +1,5 @@
+E:\csharpworkspace\Linq\Linq_char01\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\Linq\Linq_char01\Test\bin\Debug\Test.exe
+E:\csharpworkspace\Linq\Linq_char01\Test\bin\Debug\Test.pdb
+E:\csharpworkspace\Linq\Linq_char01\Test\obj\x86\Debug\Test.exe
+E:\csharpworkspace\Linq\Linq_char01\Test\obj\x86\Debug\Test.pdb

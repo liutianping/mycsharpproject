@@ -1,0 +1,11 @@
+E:\csharpworkspace\Interface_Factory\PetShop.DALFactory\bin\Debug\PetShop.DALFactory.dll
+E:\csharpworkspace\Interface_Factory\PetShop.DALFactory\bin\Debug\PetShop.DALFactory.pdb
+E:\csharpworkspace\Interface_Factory\PetShop.DALFactory\bin\Debug\PetShop.IDAL.dll
+E:\csharpworkspace\Interface_Factory\PetShop.DALFactory\bin\Debug\PetShop.OracleDAL.dll
+E:\csharpworkspace\Interface_Factory\PetShop.DALFactory\bin\Debug\PetShop.SQLServerDAL.dll
+E:\csharpworkspace\Interface_Factory\PetShop.DALFactory\bin\Debug\PetShop.OracleDAL.pdb
+E:\csharpworkspace\Interface_Factory\PetShop.DALFactory\bin\Debug\PetShop.IDAL.pdb
+E:\csharpworkspace\Interface_Factory\PetShop.DALFactory\bin\Debug\PetShop.SQLServerDAL.pdb
+E:\csharpworkspace\Interface_Factory\PetShop.DALFactory\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\Interface_Factory\PetShop.DALFactory\obj\Debug\PetShop.DALFactory.dll
+E:\csharpworkspace\Interface_Factory\PetShop.DALFactory\obj\Debug\PetShop.DALFactory.pdb

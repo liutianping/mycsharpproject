@@ -1,0 +1,6 @@
+E:\csharpworkspace\Interface_Factory\MyStack\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\Interface_Factory\MyStack\bin\Debug\MyStack.exe
+E:\csharpworkspace\Interface_Factory\MyStack\bin\Debug\MyStack.pdb
+E:\csharpworkspace\Interface_Factory\MyStack\obj\Debug\MyStack.exe
+E:\csharpworkspace\Interface_Factory\MyStack\obj\Debug\MyStack.pdb
+E:\csharpworkspace\Interface_Factory\MyStack\bin\Debug\nunit.framework.dll

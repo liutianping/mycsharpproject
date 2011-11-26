@@ -1,0 +1,5 @@
+E:\csharpworkspace\News\ThreeTries\Model\bin\Debug\Threetries.model.dll
+E:\csharpworkspace\News\ThreeTries\Model\bin\Debug\Threetries.model.pdb
+E:\csharpworkspace\News\ThreeTries\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\ThreeTries\Model\obj\Debug\Threetries.model.dll
+E:\csharpworkspace\News\ThreeTries\Model\obj\Debug\Threetries.model.pdb

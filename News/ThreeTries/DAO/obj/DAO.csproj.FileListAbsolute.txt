@@ -1,0 +1,8 @@
+E:\csharpworkspace\News\ThreeTries\DAO\bin\Debug\Threetires.DAO.dll
+E:\csharpworkspace\News\ThreeTries\DAO\bin\Debug\Threetires.DAO.pdb
+E:\csharpworkspace\News\ThreeTries\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\ThreeTries\DAO\obj\Debug\Threetires.DAO.dll
+E:\csharpworkspace\News\ThreeTries\DAO\obj\Debug\Threetires.DAO.pdb
+E:\csharpworkspace\News\ThreeTries\DAO\bin\Debug\Threetires.DAO.dll.config
+E:\csharpworkspace\News\ThreeTries\DAO\bin\Debug\Threetries.model.dll
+E:\csharpworkspace\News\ThreeTries\DAO\bin\Debug\Threetries.model.pdb

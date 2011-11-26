@@ -1,0 +1,5 @@
+E:\csharpworkspace\Interface_Factory\PetShop.IDAL\bin\Debug\PetShop.IDAL.dll
+E:\csharpworkspace\Interface_Factory\PetShop.IDAL\bin\Debug\PetShop.IDAL.pdb
+E:\csharpworkspace\Interface_Factory\PetShop.IDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\Interface_Factory\PetShop.IDAL\obj\Debug\PetShop.IDAL.dll
+E:\csharpworkspace\Interface_Factory\PetShop.IDAL\obj\Debug\PetShop.IDAL.pdb

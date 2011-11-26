@@ -1,0 +1,32 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title></title>
+
+    <script src="js/jquery-1.4.2.js" type="text/javascript"></script>
+    
+    <script type="text/ecmascript">
+        $(function() {
+            $.post("GetComment.ashx", function(data, status) {
+                if (status != "success") {
+                    $("#ulComment").append($("<li>加载失败！</li>"))
+                    return;
+                }
+                var lines = data.split("$");
+                for (var i = 0; i < lines.length; i++) {
+                    var line = lines[i];
+                    var fields = line.split("|");
+                    var comment = $("<li>IP地址:" + fields[0] + "发帖日期:" + fields[1] + "内容:" + fields[2] + "</li>");
+                    $("#ulComment").append(comment);
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+<ul id="ulComment">
+
+</ul>
+</body>
+</html>

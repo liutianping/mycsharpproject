@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\bin\Debug\cjgl.exe.config
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\bin\Debug\cjgl.exe
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\bin\Debug\cjgl.pdb
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\obj\Debug\cjgl.Properties.Resources.resources
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\obj\Debug\cjgl.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\obj\Debug\cjgl.exe
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\obj\Debug\cjgl.pdb
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\obj\Debug\cjgl.Login.resources
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\obj\Debug\cjgl.Frmcjgl.resources
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\obj\Debug\cjgl.Frmmmxg.resources
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\obj\Debug\cjgl.Frmcjcx.resources
+C:\Users\Administrator\Desktop\cjgl\cjgl\cjgl\obj\Debug\cjgl.Frmaddcj.resources
+E:\csharpworkspace\cjgl\cjgl\cjgl\bin\Debug\cjgl.exe.config
+E:\csharpworkspace\cjgl\cjgl\cjgl\obj\Debug\cjgl.exe
+E:\csharpworkspace\cjgl\cjgl\cjgl\obj\Debug\cjgl.pdb

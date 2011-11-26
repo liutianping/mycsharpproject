@@ -1,0 +1,5 @@
+E:\csharpworkspace\News\News\News\bin\News.dll
+E:\csharpworkspace\News\News\News\bin\News.pdb
+E:\csharpworkspace\News\News\News\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\News\News\obj\Debug\News.dll
+E:\csharpworkspace\News\News\News\obj\Debug\News.pdb

@@ -1,0 +1,7 @@
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterDAO\bin\Debug\SchoolMasterDAO.DAO.dll
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterDAO\bin\Debug\SchoolMasterDAO.DAO.pdb
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterDAO\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterDAO\obj\Debug\SchoolMasterDAO.DAO.dll
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterDAO\obj\Debug\SchoolMasterDAO.DAO.pdb
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterDAO\bin\Debug\SchoolMasterModel.Model.dll
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterDAO\bin\Debug\SchoolMasterModel.Model.pdb

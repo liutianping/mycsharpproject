@@ -1,0 +1,9 @@
+E:\csharpworkspace\News\Interface_Factory\CacheDependencyFactory\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\Interface_Factory\CacheDependencyFactory\bin\Debug\CacheDependencyFactory.dll
+E:\csharpworkspace\News\Interface_Factory\CacheDependencyFactory\bin\Debug\CacheDependencyFactory.pdb
+E:\csharpworkspace\News\Interface_Factory\CacheDependencyFactory\bin\Debug\ICacheDependency.dll
+E:\csharpworkspace\News\Interface_Factory\CacheDependencyFactory\bin\Debug\TableCacheDependency.dll
+E:\csharpworkspace\News\Interface_Factory\CacheDependencyFactory\bin\Debug\ICacheDependency.pdb
+E:\csharpworkspace\News\Interface_Factory\CacheDependencyFactory\bin\Debug\TableCacheDependency.pdb
+E:\csharpworkspace\News\Interface_Factory\CacheDependencyFactory\obj\Debug\CacheDependencyFactory.dll
+E:\csharpworkspace\News\Interface_Factory\CacheDependencyFactory\obj\Debug\CacheDependencyFactory.pdb

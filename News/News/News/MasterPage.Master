@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs"
+    Inherits="News.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            height: 27px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="height: 226px">
+            <tr>
+                <td class="style1">
+                    <asp:Menu ID="Menu1" runat="server" BorderStyle="Dotted" Height="16px" 
+                        Orientation="Horizontal" Target="_self" Width="751px">
+                        <Items>
+                            <asp:MenuItem Text="新闻发布" Value="新闻发布" NavigateUrl="~/admin/AddNews.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="新闻查询" Value="新闻查询" NavigateUrl="~/admin/queryNews.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="修改密码" Value="修改密码" 
+                                NavigateUrl="~/admin/changePassword.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="首页" Value="首页" NavigateUrl="~/Default.aspx"></asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        <p>
+                            <br />
+                        </p>
+                        <p>
+                        </p>
+                        <p>
+                        </p>
+                        <p>
+                        </p>
+                        <p>
+                        </p>
+                        <p>
+                        </p>
+                        <p>
+                        </p>
+                        <p>
+                        </p>
+                        <p>
+                        </p>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

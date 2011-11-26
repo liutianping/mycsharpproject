@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\WebSite1\demo2\", "D:\WebSite1\demo2\", "{4A20FD42-FB58-47F1-ACD2-741ACBAE7897}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/demo2"
+		Debug.AspNetCompiler.PhysicalPath = "D:\WebSite1\demo2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\demo2\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/demo2"
+		Release.AspNetCompiler.PhysicalPath = "D:\WebSite1\demo2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\demo2\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4278"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\WebSite1\demo3\", "D:\WebSite1\demo3\", "{B7EFE37F-6C3B-48EE-B0A6-FE17B68237F3}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/demo3"
+		Debug.AspNetCompiler.PhysicalPath = "D:\WebSite1\demo3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\demo3\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/demo3"
+		Release.AspNetCompiler.PhysicalPath = "D:\WebSite1\demo3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\demo3\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4949"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A20FD42-FB58-47F1-ACD2-741ACBAE7897}.Debug|.NET.ActiveCfg = Debug|.NET
+		{4A20FD42-FB58-47F1-ACD2-741ACBAE7897}.Debug|.NET.Build.0 = Debug|.NET
+		{B7EFE37F-6C3B-48EE-B0A6-FE17B68237F3}.Debug|.NET.ActiveCfg = Debug|.NET
+		{B7EFE37F-6C3B-48EE-B0A6-FE17B68237F3}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

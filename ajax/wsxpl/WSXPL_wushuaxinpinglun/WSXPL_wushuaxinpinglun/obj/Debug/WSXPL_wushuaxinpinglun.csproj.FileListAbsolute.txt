@@ -1,0 +1,5 @@
+E:\csharpworkspace\ajax\wsxpl\WSXPL_wushuaxinpinglun\WSXPL_wushuaxinpinglun\bin\WSXPL_wushuaxinpinglun.dll
+E:\csharpworkspace\ajax\wsxpl\WSXPL_wushuaxinpinglun\WSXPL_wushuaxinpinglun\bin\WSXPL_wushuaxinpinglun.pdb
+E:\csharpworkspace\ajax\wsxpl\WSXPL_wushuaxinpinglun\WSXPL_wushuaxinpinglun\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\ajax\wsxpl\WSXPL_wushuaxinpinglun\WSXPL_wushuaxinpinglun\obj\Debug\WSXPL_wushuaxinpinglun.dll
+E:\csharpworkspace\ajax\wsxpl\WSXPL_wushuaxinpinglun\WSXPL_wushuaxinpinglun\obj\Debug\WSXPL_wushuaxinpinglun.pdb

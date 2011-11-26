@@ -1,0 +1,9 @@
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterBLL\bin\Debug\SchoolMasterBLL.BLL.dll
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterBLL\bin\Debug\SchoolMasterBLL.BLL.pdb
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterBLL\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterBLL\obj\Debug\SchoolMasterBLL.BLL.dll
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterBLL\obj\Debug\SchoolMasterBLL.BLL.pdb
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterBLL\bin\Debug\SchoolMasterDAO.DAO.dll
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterBLL\bin\Debug\SchoolMasterModel.Model.dll
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterBLL\bin\Debug\SchoolMasterDAO.DAO.pdb
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMasterBLL\bin\Debug\SchoolMasterModel.Model.pdb

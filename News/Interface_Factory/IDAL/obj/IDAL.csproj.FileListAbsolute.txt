@@ -1,0 +1,5 @@
+E:\csharpworkspace\News\Interface_Factory\IDAL\bin\Debug\IDAL.dll
+E:\csharpworkspace\News\Interface_Factory\IDAL\bin\Debug\IDAL.pdb
+E:\csharpworkspace\News\Interface_Factory\IDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\Interface_Factory\IDAL\obj\Debug\IDAL.dll
+E:\csharpworkspace\News\Interface_Factory\IDAL\obj\Debug\IDAL.pdb

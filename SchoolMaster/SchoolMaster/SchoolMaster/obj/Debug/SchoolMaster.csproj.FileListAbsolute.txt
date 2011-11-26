@@ -1,0 +1,7 @@
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMaster\bin\SchoolMaster.dll
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMaster\bin\SchoolMaster.pdb
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMaster\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMaster\obj\Debug\SchoolMaster.dll
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMaster\obj\Debug\SchoolMaster.pdb
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMaster\bin\SchoolMasterModel.Model.dll
+E:\csharpworkspace\SchoolMaster\SchoolMaster\SchoolMaster\bin\SchoolMasterModel.Model.pdb

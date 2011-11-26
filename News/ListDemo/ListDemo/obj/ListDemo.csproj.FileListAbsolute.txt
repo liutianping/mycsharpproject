@@ -1,0 +1,9 @@
+E:\csharpworkspace\News\ListDemo\ListDemo\bin\Debug\ListDemo.exe.config
+E:\csharpworkspace\News\ListDemo\ListDemo\bin\Debug\ListDemo.exe
+E:\csharpworkspace\News\ListDemo\ListDemo\bin\Debug\ListDemo.pdb
+E:\csharpworkspace\News\ListDemo\ListDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\ListDemo\ListDemo\obj\Debug\ListDemo.Properties.Resources.resources
+E:\csharpworkspace\News\ListDemo\ListDemo\obj\Debug\ListDemo.ShowData.resources
+E:\csharpworkspace\News\ListDemo\ListDemo\obj\Debug\ListDemo.csproj.GenerateResource.Cache
+E:\csharpworkspace\News\ListDemo\ListDemo\obj\Debug\ListDemo.exe
+E:\csharpworkspace\News\ListDemo\ListDemo\obj\Debug\ListDemo.pdb

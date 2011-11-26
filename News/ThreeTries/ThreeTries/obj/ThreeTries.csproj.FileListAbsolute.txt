@@ -1,0 +1,15 @@
+E:\csharpworkspace\News\ThreeTries\ThreeTries\bin\Debug\ThreeTries.exe
+E:\csharpworkspace\News\ThreeTries\ThreeTries\bin\Debug\ThreeTries.pdb
+E:\csharpworkspace\News\ThreeTries\ThreeTries\bin\Debug\Threetries.BLL.dll
+E:\csharpworkspace\News\ThreeTries\ThreeTries\bin\Debug\Threetries.model.dll
+E:\csharpworkspace\News\ThreeTries\ThreeTries\bin\Debug\Threetries.model.pdb
+E:\csharpworkspace\News\ThreeTries\ThreeTries\bin\Debug\Threetries.BLL.pdb
+E:\csharpworkspace\News\ThreeTries\ThreeTries\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\ThreeTries\ThreeTries\obj\Debug\ThreeTries.Properties.Resources.resources
+E:\csharpworkspace\News\ThreeTries\ThreeTries\obj\Debug\ThreeTries.csproj.GenerateResource.Cache
+E:\csharpworkspace\News\ThreeTries\ThreeTries\obj\Debug\ThreeTries.exe
+E:\csharpworkspace\News\ThreeTries\ThreeTries\obj\Debug\ThreeTries.pdb
+E:\csharpworkspace\News\ThreeTries\ThreeTries\bin\Debug\Threetires.DAO.dll
+E:\csharpworkspace\News\ThreeTries\ThreeTries\bin\Debug\Threetires.DAO.pdb
+E:\csharpworkspace\News\ThreeTries\ThreeTries\obj\Debug\ThreeTries.Form1.resources
+E:\csharpworkspace\News\ThreeTries\ThreeTries\obj\Debug\ThreeTries.Register.resources

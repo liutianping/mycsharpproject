@@ -1,0 +1,11 @@
+E:\csharpworkspace\News\Interface_Factory\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\Interface_Factory\DALFactory\bin\Debug\DALFactory.dll
+E:\csharpworkspace\News\Interface_Factory\DALFactory\bin\Debug\DALFactory.pdb
+E:\csharpworkspace\News\Interface_Factory\DALFactory\bin\Debug\IDAL.dll
+E:\csharpworkspace\News\Interface_Factory\DALFactory\bin\Debug\IDAL.pdb
+E:\csharpworkspace\News\Interface_Factory\DALFactory\obj\Debug\DALFactory.dll
+E:\csharpworkspace\News\Interface_Factory\DALFactory\obj\Debug\DALFactory.pdb
+E:\csharpworkspace\News\Interface_Factory\DALFactory\bin\Debug\MyOracleDAL.dll
+E:\csharpworkspace\News\Interface_Factory\DALFactory\bin\Debug\MySQLServerDAL.dll
+E:\csharpworkspace\News\Interface_Factory\DALFactory\bin\Debug\MyOracleDAL.pdb
+E:\csharpworkspace\News\Interface_Factory\DALFactory\bin\Debug\MySQLServerDAL.pdb

@@ -1,0 +1,7 @@
+E:\csharpworkspace\Interface_Factory\PetShop.OracleDAL\bin\Debug\PetShop.OracleDAL.dll
+E:\csharpworkspace\Interface_Factory\PetShop.OracleDAL\bin\Debug\PetShop.OracleDAL.pdb
+E:\csharpworkspace\Interface_Factory\PetShop.OracleDAL\bin\Debug\PetShop.IDAL.dll
+E:\csharpworkspace\Interface_Factory\PetShop.OracleDAL\bin\Debug\PetShop.IDAL.pdb
+E:\csharpworkspace\Interface_Factory\PetShop.OracleDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\Interface_Factory\PetShop.OracleDAL\obj\Debug\PetShop.OracleDAL.dll
+E:\csharpworkspace\Interface_Factory\PetShop.OracleDAL\obj\Debug\PetShop.OracleDAL.pdb

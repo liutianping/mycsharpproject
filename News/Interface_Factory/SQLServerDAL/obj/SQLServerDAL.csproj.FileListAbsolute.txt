@@ -1,0 +1,7 @@
+E:\csharpworkspace\News\Interface_Factory\SQLServerDAL\bin\Debug\IDAL.dll
+E:\csharpworkspace\News\Interface_Factory\SQLServerDAL\bin\Debug\IDAL.pdb
+E:\csharpworkspace\News\Interface_Factory\SQLServerDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\csharpworkspace\News\Interface_Factory\SQLServerDAL\bin\Debug\MySQLServerDAL.dll
+E:\csharpworkspace\News\Interface_Factory\SQLServerDAL\bin\Debug\MySQLServerDAL.pdb
+E:\csharpworkspace\News\Interface_Factory\SQLServerDAL\obj\Debug\MySQLServerDAL.dll
+E:\csharpworkspace\News\Interface_Factory\SQLServerDAL\obj\Debug\MySQLServerDAL.pdb
